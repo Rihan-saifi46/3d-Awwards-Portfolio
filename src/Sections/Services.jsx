@@ -1,6 +1,6 @@
 
 import { useRef } from "react";
-import AnimatedHeaderSection from "../components/AnimatedHeaderSection";
+import AnimatedHeaderSection from "../Components/AnimatedHeaderSection";
 import { servicesData } from "../Constants";
 import { useMediaQuery } from "react-responsive";
 import { useGSAP } from "@gsap/react";
